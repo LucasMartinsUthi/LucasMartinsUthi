@@ -9,4 +9,6 @@
 
 [![My Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-martins-dos-santos-85aa65185/){target: "_blank"}
 
+<a href="/path/to/page?target=_blank">Title</a>
+
 
